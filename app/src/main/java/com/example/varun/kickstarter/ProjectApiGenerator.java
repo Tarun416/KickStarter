@@ -1,4 +1,4 @@
-package com.example.varun.kickstarter.ui;
+package com.example.varun.kickstarter;
 
 import android.util.Log;
 

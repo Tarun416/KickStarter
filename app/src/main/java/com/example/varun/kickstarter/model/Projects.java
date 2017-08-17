@@ -14,28 +14,37 @@ public class Projects
     @SerializedName("num.backers")
     private String num_backers;
 
+    @SerializedName("end.time")
     private String end_time;
 
+    @SerializedName("location")
     private String location;
 
     @SerializedName("amt.pledged")
     private String amt_pledged;
 
+    @SerializedName("state")
     private String state;
 
+    @SerializedName("by")
     private String by;
 
     @SerializedName("percentage.funded")
     private String percentage_funded;
 
+    @SerializedName("blurb")
     private String blurb;
 
+    @SerializedName("type")
     private String type;
 
+    @SerializedName("url")
     private String url;
 
+    @SerializedName("currency")
     private String currency;
 
+    @SerializedName("country")
     private String country;
 
     @SerializedName("s.no")

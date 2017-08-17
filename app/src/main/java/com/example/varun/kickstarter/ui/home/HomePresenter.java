@@ -1,6 +1,6 @@
 package com.example.varun.kickstarter.ui.home;
 
-import com.example.varun.kickstarter.ui.ProjectApiGenerator;
+import com.example.varun.kickstarter.ProjectApiGenerator;
 import com.example.varun.kickstarter.api.ProjectApi;
 import com.example.varun.kickstarter.model.Projects;
 
